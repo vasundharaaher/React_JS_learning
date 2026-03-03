@@ -92,6 +92,7 @@ npm run dev
 | Configuration    | Hidden by default | Lightweight & Flexible |
 
 ---
+## About rest of the application 
 
 ## 📦 Installing Dependencies
 
