@@ -4,20 +4,6 @@ Welcome to my **React JS Learning Journey** repository.
 This repository contains projects and notes created while learning React using different tooling setups.
 
 ---
-
-## 📌 About This Repository
-
-This repo demonstrates:
-
-* Creating a React app using **Create React App (CRA)**
-* Creating a React app using **Vite**
-* Understanding the differences between both setups
-* Managing dependencies using `npm`
-
-The goal is to compare project structure, build tools, and development experience.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -29,10 +15,6 @@ React_JS_learning/
 └── vite-react-app/
     └── my-react-app/       # React app created using Vite
 ```
-
-Each project contains its own `package.json` file and manages dependencies independently.
-
----
 
 ## ⚛️ 1️⃣ React App using Create React App
 
