@@ -4,17 +4,6 @@ Welcome to my **React JS Learning Journey** repository.
 This repository contains projects and notes created while learning React using different tooling setups.
 
 ---
-## 📁 Project Structure
-
-```
-React_JS_learning/
-│
-├── npm/
-│   └── first-app/          # React app created using Create React App
-│
-└── vite-react-app/
-    └── my-react-app/       # React app created using Vite
-```
 
 ## ⚛️ 1️⃣ React App using Create React App
 
